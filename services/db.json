@@ -36,6 +36,67 @@
             "views": 270
         }
     ],
+    
+  "autores": [
+    {
+      "id": 2,
+      "nome": "Clarice Lispector",
+      "foto": "https://i0.wp.com/www.tecstudio.com.br/wp-content/uploads/2018/12/literatura-clarice-lispector-20080303-002.jpg?fit=3000%2C2000&ssl=1",
+      "descricao": "Escritora e jornalista nascida na Ucrânia e naturalizada brasileira.",
+      "biografia": "Clarice Lispector chegou ao Brasil ainda bebê, fugindo da perseguição aos judeus na Europa. Sua escrita é marcada por um estilo introspectivo e existencialista que rompeu com as estruturas narrativas tradicionais. Em 1943, publicou 'Perto do Coração Selvagem', que causou espanto na crítica pela profundidade psicológica. Ao longo de sua carreira, Clarice explorou o fluxo de consciência e os 'instantes-já', momentos de epifania cotidiana que revelam a essência humana. É considerada uma das vozes mais singulares da literatura mundial do século XX.",
+      "especialidade": "Ficção Psicológica",
+      "cidade": "Recife"
+    },
+    {
+      "id": 3,
+      "nome": "Fernando Pessoa",
+      "foto": "https://tse1.mm.bing.net/th/id/OIP.4KlIV0ryGJCOW7oCiiKh9wHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "descricao": "Poeta, filósofo e crítico literário português.",
+      "biografia": "Fernando Pessoa é uma das figuras centrais do modernismo em língua portuguesa. Sua genialidade reside na criação de heterônimos — personalidades literárias completas, com biografias, estilos e visões de mundo próprias, como Ricardo Reis, Álvaro de Campos e Alberto Caeiro. Educado na África do Sul, Pessoa escrevia tanto em português quanto em inglês. Passou a maior parte de sua vida em Lisboa, trabalhando como tradutor comercial, enquanto construía um universo poético vasto que só foi plenamente reconhecido e publicado após sua morte, com destaque para o 'Livro do Desassossego'.",
+      "especialidade": "Poesia Modernista",
+      "cidade": "Lisboa"
+    },
+    {
+      "id": 4,
+      "nome": "Virginia Woolf",
+      "foto": "https://biografieonline.it/img/bio/Virginia_Woolf_2.jpg",
+      "descricao": "Escritora britânica e ensaísta, pioneira no uso do fluxo de consciência.",
+      "biografia": "Adeline Virginia Woolf foi uma das principais figuras do Círculo de Bloomsbury e uma inovadora nata da forma romanesca. Seus ensaios, como 'Um Teto Todo Seu', tornaram-se pilares do pensamento feminista moderno, discutindo a necessidade de independência financeira e intelectual para as mulheres. Em romances como 'Mrs. Dalloway' e 'Ao Farol', ela refinou a técnica do monólogo interior, focando nos pensamentos subjetivos e na percepção do tempo. Woolf também fundou a Hogarth Press com seu marido, Leonard, publicando obras de autores contemporâneos importantes.",
+      "especialidade": "Modernismo Literário",
+      "cidade": "Londres"
+    },
+    {
+      "id": 5,
+      "nome": "Gabriel García Márquez",
+      "foto": "https://th.bing.com/th/id/OIP.nPB2D_XY9bQSbC6O_G3HPgHaFS?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "descricao": "Escritor e jornalista colombiano, Nobel de Literatura em 1982.",
+      "biografia": "Conhecido carinhosamente como Gabo, García Márquez começou sua carreira no jornalismo, o que influenciou seu olhar detalhista sobre a realidade latino-americana. Ele é o maior ícone do realismo mágico, gênero que funde o cotidiano com elementos fantásticos de forma natural. Sua obra-prima, 'Cem Anos de Solidão', narra a história da família Buendía na aldeia fictícia de Macondo, servindo como uma metáfora para a história da Colômbia e do continente. Através de sua escrita exuberante, ele capturou a solidão, a política e o amor de maneira universal.",
+      "especialidade": "Realismo Mágico",
+      "cidade": "Aracataca"
+    },
+    {
+      "id": 6,
+      "nome": "Guimarães Rosa",
+      "foto": "https://tse2.mm.bing.net/th/id/OIP.EWAHX7iOZ7ulKQcQzqm6jAHaEb?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "descricao": "Escritor, diplomata e médico brasileiro.",
+      "biografia": "João Guimarães Rosa revolucionou a literatura brasileira ao fundir o regionalismo do sertão de Minas Gerais com uma linguagem universal e experimental. Poliglota e profundo conhecedor de diversas áreas do saber, ele reinventou o português, criando neologismos e estruturas sintáticas únicas. Sua obra magna, 'Grande Sertão: Veredas', é um longo monólogo do jagunço Riobaldo que reflete sobre o bem, o mal e a metafísica da existência humana. Para Rosa, o sertão não era apenas um lugar geográfico, mas um espaço espiritual presente dentro de cada indivíduo.",
+      "especialidade": "Regionalismo Universalista",
+      "cidade": "Cordisburgo"
+    },
+    {
+      "id": 7,
+      "nome": "George Orwell",
+      "foto": "https://images.wsj.net/im-784561/?width=700&height=467",
+      "descricao": "Escritor, ensaísta e jornalista britânico.",
+      "biografia": "Eric Arthur Blair, sob o pseudônimo de George Orwell, tornou-se a consciência crítica do século XX. Suas experiências como policial na Birmânia, combatente na Guerra Civil Espanhola e observador da pobreza em Londres e Paris moldaram sua aversão a todas as formas de autoritarismo. Em '1984', ele cunhou conceitos como o 'Grande Irmão' e a 'Novilíngua', prevendo os perigos da vigilância estatal e da manipulação da verdade. Sua escrita é direta e lúcida, sempre voltada para a defesa da liberdade individual e da justiça social, independentemente de ideologias partidárias.",
+      "especialidade": "Distopia e Crítica Política",
+      "cidade": "Motihari"
+    }
+  ],
+
+
+
+
     "comments": [
         {
             "id": "1",
